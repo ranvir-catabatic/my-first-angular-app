@@ -4,7 +4,7 @@ install node in system
 
 run below command using cli
 
-1. : cd <project location> 
+1. : cd {project location} 
 
 2. : npm install
 
